@@ -12,7 +12,9 @@
 #If you try to use this program, I strongly advise you to work through these tutorials. And any linked to it.
 ####First followed this before changing the code. https://learn.adafruit.com/adafruit-io-basics-digital-input/python-code
 
-####Need to be in this directoryto run this code ~/io-client-python/examples/basics
+####Need to be in this directory to run this code ~/io-client-python/examples/basics
+####Need to create a folder to hold this code: /home/pi/Home_Monitor Place all program file in this folder.
+####Need a data in this location: /home/pi/Home_Monitor/data.dat
 
 #import RPi.GPIO as GPIO
 import time
