@@ -1,4 +1,4 @@
-# Home-Monitoring-System-Two(on-going project)
+# Home-Monitoring-Python-Two
 Part 2 of developing a home monitoring system.
 
 PIR example on a Raspberry Pi.
